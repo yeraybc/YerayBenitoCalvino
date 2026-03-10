@@ -14,11 +14,10 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Core Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white) |
+| **Data Science (Finance)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2ECC71?style=flat-square&logo=stackshare&logoColor=white) |
 | **Statistical Analysis** | ![SAS](https://img.shields.io/badge/SAS-00487F?style=flat-square&logo=sas&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-CC2027?style=flat-square&logo=ibm&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?style=flat-square&logo=mathworks&logoColor=white) |
-| **Optimization & BI** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![GAMS](https://img.shields.io/badge/GAMS-4E9A06?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAWklEQVQ4jWNgGAWjYBSMAtIAAyD+D8S/gfgvEB8H4v9A/AeI/wDxTyD+AcS/gfgPEE8A4glA/AGI/wDxdCCeAMR/gPg9EP8B4ulAPA6I/wDxByD+D8R/gPg9EP8BAGYmE8OfS767AAAAAElFTkSuQmCC) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **AI & LLM Frameworks** | ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white) |
-
+| **Database & Engineering** | ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Optimization & BI** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![GAMS](https://img.shields.io/badge/GAMS-4E9A06?style=flat-square&logo=data:image/png;base64,...) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 ---
 
 ## 📈 Current Focus & Portfolio Roadmap
