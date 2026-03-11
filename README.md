@@ -12,8 +12,9 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 ## 📊 GitHub Stats & Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeraybc&show_icons=true&theme=radical&hide_border=true" alt="Yeray's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeraybc&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeraybc&show_icons=true&theme=radical&hide_border=true" alt="Yeray's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeraybc&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeraybc&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
 
 ---
