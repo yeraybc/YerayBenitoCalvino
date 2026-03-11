@@ -10,6 +10,14 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 ---
 
+## 📊 GitHub Stats & Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeraybc&show_icons=true&theme=radical&hide_border=true" alt="Yeray's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeraybc&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="170" />
+</p>
+
+---
+
 ## 🛠 Skills Matrix (Tech Stack)
 
 | Category | Tools & Technologies |
