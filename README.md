@@ -43,13 +43,8 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 👉 [View Project Repository](https://github.com/yeraybc) ---
  
-## 🧠 Curiosities & Connection
-
-* **1** ...
-* **2** ...
-* **3** ...
-
-**Ready to tackle your next data challenge:**
+## 🤝 Let's Connect!
+*Ready to tackle your next data challenge. Currently seeking complex corporate environments to build end-to-end data solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeraybenit0) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yera0304@gmail.com)
