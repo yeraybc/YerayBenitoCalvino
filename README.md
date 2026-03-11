@@ -10,14 +10,15 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 ---
 
-## 🛠 Skills Matrix
+## 🛠 Skills Matrix (Tech Stack)
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Data Science (Finance)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2ECC71?style=flat-square&logo=stackshare&logoColor=white) |
 | **Statistical Analysis** | ![SAS](https://img.shields.io/badge/SAS-00487F?style=flat-square&logo=sas&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-CC2027?style=flat-square&logo=ibm&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-ED8B00?style=flat-square&logo=mathworks&logoColor=white) |
 | **Database & Engineering** | ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Optimization & BI** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![GAMS](https://img.shields.io/badge/GAMS-4E9A06?style=flat-square&logo=data:image/png;base64,...) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Optimization & BI** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![GAMS](https://img.shields.io/badge/GAMS-Optimization-blue?style=flat-square) |
+
 ---
 
 ## 📈 Current Focus & Portfolio Roadmap
@@ -42,7 +43,9 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 * **Optimized** data retrieval pipelines to ensure real-time accuracy of the econometric model.
 
 👉 [View Project Repository](https://github.com/yeraybc) ---
- 
+
+---
+
 ## 🤝 Let's Connect!
 *Ready to tackle your next data challenge. Currently seeking complex corporate environments to build end-to-end data solutions.*
 
