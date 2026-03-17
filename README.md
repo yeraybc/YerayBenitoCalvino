@@ -46,16 +46,15 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 ### [📈 BTC-NASDAQ-FED: Cointegration & Systematic Risk Audit](https://github.com/yeraybc/analisis-btc-nasdaq-fed)
 
-**¿Es Bitcoin el 'Oro Digital' o simplemente un reflejo apalancado de la liquidez global?** He tratado los datos para atravesar la narrativa del refugio seguro y revelar los hilos invisibles que atan al BTC con las decisiones de la FED y el índice tecnológico del NASDAQ.
+**Is Bitcoin 'Digital Gold' or simply a leveraged reflection of global liquidity?** I audited the data to cut through the safe-haven narrative, revealing the invisible threads that bind BTC to FED decisions and the NASDAQ tech index.
 
-* ⚠️ **Gestión de Riesgo:** Identifiqué una **correlación estructural de 0.94** con el NASDAQ, lo que permite **invalidar estrategias de diversificación ineficientes** en carteras de que incluyan el sector tecnológico estadounidense.
-* 🏛️ **Sensibilidad Macro:** Cuantifiqué un impacto de **-$4.8k en el precio del BTC por cada 1% de subida en la Tasa FED**, proporcionando una métrica de **cobertura precisa ante shocks de política monetaria**.
-* ⚡ **Eficiencia Dinámica:** Determiné una **velocidad de reversión a la media de 5.4 meses**, identificando ventanas críticas para **arbitraje de desequilibrios fundamentales** del activo.
+* ⚠️ **Risk Management:** Identified a **0.94 structural correlation** with the NASDAQ, effectively **invalidating inefficient diversification strategies** within portfolios exposed to the US tech sector.
+* 🏛️ **Macro Sensitivity:** Quantified a **-$4.8k impact on BTC price for every 1% hike in the FED Rate**, providing a **precise hedging metric** against monetary policy shocks.
+* ⚡ **Dynamic Efficiency:** Determined a **5.4-month mean-reversion speed**, identifying critical windows for **arbitraging the asset’s fundamental imbalances**.
 
-**Stack Técnico:** `Python` | `Statsmodels` | `ECM` | `Cointegration` | `IV-2SLS`
+**Tech Stack:** `Python` | `Statsmodels` | `ECM` | `Cointegration` | `IV-2SLS`
 
-👉 **[Explorar Código y Metodología](https://github.com/yeraybc/analisis-btc-nasdaq-fed)** | 📙 **[Glosario de Terminología Empleada](https://github.com/yeraybc/analisis-btc-nasdaq-fed/blob/main/glosario.md)**
-
+👉 **[Explore Code & Methodology](https://github.com/yeraybc/analisis-btc-nasdaq-fed)** | 📙 **[Technical Glossary](https://github.com/yeraybc/analisis-btc-nasdaq-fed/blob/main/glosario.md)**
 
 ---
 
