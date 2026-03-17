@@ -44,14 +44,18 @@ I am a 3rd-year Data Science student at the Universidad Complutense de Madrid, s
 
 ## 🌟 Featured Project: Bitcoin Econometric Analysis
 
-**Challenge:** Dissecting the volatility of BTC/USD to identify significant macroeconomic predictors in a highly speculative market.
+### [📈 BTC-NASDAQ-FED: Cointegration & Systematic Risk Audit](https://github.com/yeraybc/analisis-btc-nasdaq-fed)
 
-* **Analyzed** historical price action using time-series modeling to detect seasonal trends and structural breaks.
-* **Leveraged** R and Python to implement heteroscedasticity tests and regression diagnostics, ensuring statistical validity.
-* **Translated** high-dimensional data into a comprehensive report that identifies the correlation between global liquidity and asset appreciation.
-* **Optimized** data retrieval pipelines to ensure real-time accuracy of the econometric model.
+**¿Es Bitcoin el 'Oro Digital' o simplemente un reflejo apalancado de la liquidez global?** He tratado los datos para atravesar la narrativa del refugio seguro y revelar los hilos invisibles que atan al BTC con las decisiones de la FED y el índice tecnológico del NASDAQ.
 
-👉 [View Project Repository](https://github.com/yeraybc) ---
+* ⚠️ **Gestión de Riesgo:** Identifiqué una **correlación estructural de 0.94** con el NASDAQ, lo que permite **invalidar estrategias de diversificación ineficientes** en carteras de que incluyan el sector tecnológico estadounidense.
+* 🏛️ **Sensibilidad Macro:** Cuantifiqué un impacto de **-$4.8k en el precio del BTC por cada 1% de subida en la Tasa FED**, proporcionando una métrica de **cobertura precisa ante shocks de política monetaria**.
+* ⚡ **Eficiencia Dinámica:** Determiné una **velocidad de reversión a la media de 5.4 meses**, identificando ventanas críticas para **arbitraje de desequilibrios fundamentales** del activo.
+
+**Stack Técnico:** `Python` | `Statsmodels` | `ECM` | `Cointegration` | `IV-2SLS`
+
+👉 **[Explorar Código y Metodología](https://github.com/yeraybc/analisis-btc-nasdaq-fed)** | 📙 **[Glosario de Terminología Empleada](https://github.com/yeraybc/analisis-btc-nasdaq-fed/blob/main/glosario.md)**
+
 
 ---
 
